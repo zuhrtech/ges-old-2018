@@ -1,0 +1,51 @@
+[30-Jun-2018 18:29:12 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 207
+[30-Jun-2018 18:29:16 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 207
+[30-Jun-2018 18:31:26 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 207
+[30-Jun-2018 18:31:26 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 207
+[30-Jun-2018 18:31:26 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 207
+[30-Jun-2018 18:31:41 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 207
+[30-Jun-2018 18:31:41 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 207
+[30-Jun-2018 18:31:41 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 207
+[30-Jun-2018 18:32:18 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 207
+[30-Jun-2018 18:32:18 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 207
+[30-Jun-2018 18:32:25 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 207
+[30-Jun-2018 18:32:25 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 207
+[30-Jun-2018 18:33:53 America/New_York] PHP Parse error:  syntax error, unexpected ''zuhrtech_Api'' (T_CONSTANT_ENCAPSED_STRING) in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 208
+[30-Jun-2018 18:33:57 America/New_York] PHP Parse error:  syntax error, unexpected ''zuhrtech_Api'' (T_CONSTANT_ENCAPSED_STRING) in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 208
+[30-Jun-2018 18:34:07 America/New_York] PHP Parse error:  syntax error, unexpected ''zuhrtech_Api'' (T_CONSTANT_ENCAPSED_STRING) in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 208
+[30-Jun-2018 18:34:14 America/New_York] PHP Parse error:  syntax error, unexpected ''zuhrtech_Api'' (T_CONSTANT_ENCAPSED_STRING) in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 208
+[30-Jun-2018 18:35:33 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'zuhrtech_Api'@'localhost' to database 'zuhrtech_GES' in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 208
+[30-Jun-2018 18:35:38 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'zuhrtech_Api'@'localhost' to database 'zuhrtech_GES' in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 208
+[30-Jun-2018 18:35:38 America/New_York] PHP Notice:  Undefined index: type in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 214
+[30-Jun-2018 18:35:38 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 220
+[30-Jun-2018 18:39:10 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'zuhrtech_Api'@'localhost' to database 'zuhrtech_GES' in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 212
+[30-Jun-2018 18:39:10 America/New_York] PHP Notice:  Undefined index: type in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 218
+[30-Jun-2018 18:39:10 America/New_York] PHP Notice:  Undefined index: email in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 221
+[30-Jun-2018 18:39:10 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 224
+[30-Jun-2018 18:39:15 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'zuhrtech_Api'@'localhost' to database 'zuhrtech_GES' in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 212
+[30-Jun-2018 18:39:15 America/New_York] PHP Notice:  Undefined index: type in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 218
+[30-Jun-2018 18:39:15 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 224
+[30-Jun-2018 18:39:51 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'zuhrtech_Api'@'localhost' to database 'zuhrtech_GES' in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 212
+[30-Jun-2018 18:39:51 America/New_York] PHP Notice:  Undefined index: type in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 218
+[30-Jun-2018 18:39:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 224
+[30-Jun-2018 18:39:56 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'zuhrtech_Api'@'localhost' to database 'zuhrtech_GES' in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 212
+[30-Jun-2018 18:39:56 America/New_York] PHP Notice:  Undefined index: type in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 218
+[30-Jun-2018 18:39:56 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 224
+[30-Jun-2018 18:41:24 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'zuhrtech_Api'@'localhost' to database 'zuhrtech_GES' in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 212
+[30-Jun-2018 18:41:24 America/New_York] PHP Notice:  Undefined index: type in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 218
+[30-Jun-2018 18:41:24 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 224
+[30-Jun-2018 18:41:32 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'zuhrtech_Api'@'localhost' to database 'zuhrtech_GES' in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 212
+[30-Jun-2018 18:41:32 America/New_York] PHP Notice:  Undefined index: type in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 218
+[30-Jun-2018 18:41:32 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 224
+[30-Jun-2018 18:43:56 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'zuhrtech_Api'@'localhost' to database 'zuhrtech_GES' in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 212
+[30-Jun-2018 18:43:56 America/New_York] PHP Notice:  Undefined index: type in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 220
+[30-Jun-2018 18:43:56 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 226
+[30-Jun-2018 18:44:05 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'zuhrtech_Api'@'localhost' to database 'zuhrtech_GES' in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 212
+[30-Jun-2018 18:44:05 America/New_York] PHP Notice:  Undefined index: type in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 220
+[30-Jun-2018 18:44:05 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 226
+[30-Jun-2018 18:45:36 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 214
+[30-Jun-2018 18:45:38 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 214
+[30-Jun-2018 18:46:28 America/New_York] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'zuhrtech_Api'@'localhost' to database 'zuhrtech_GES' in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 212
+[30-Jun-2018 18:48:35 America/New_York] PHP Notice:  Undefined index: type in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 221
+[30-Jun-2018 18:49:57 America/New_York] PHP Notice:  Undefined index: type in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 220
+[30-Jun-2018 18:50:03 America/New_York] PHP Notice:  Undefined index: type in /home/zuhrtech/ges.zuhrtech.com/test/index.php on line 220
